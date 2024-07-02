@@ -1,0 +1,56 @@
+2024-06-28 11:48:09 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\sivan\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-06-28 11:48:13 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-28 11:48:13 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-06-28 11:48:14 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-06-28 11:48:14 INFO  TC_001_AccountRegistrationTest:28 - Providing customer details...
+2024-06-28 11:48:17 INFO  TC_001_AccountRegistrationTest:42 - Validating expected message..
+2024-06-28 11:48:17 INFO  TC_001_AccountRegistrationTest:63 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-28 11:48:21 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-06-28 11:48:21 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-06-28 11:48:21 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-06-28 11:48:21 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-06-28 11:48:22 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-06-28 11:48:22 INFO  TC_002_LoginTest:41 - **** Loggedout ****
+2024-06-28 11:48:22 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2024-06-28 12:58:26 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\sivan\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-06-28 12:58:30 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-28 12:58:31 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-06-28 12:58:31 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-06-28 12:58:31 INFO  TC_001_AccountRegistrationTest:28 - Providing customer details...
+2024-06-28 12:58:32 INFO  TC_001_AccountRegistrationTest:42 - Validating expected message..
+2024-06-28 12:58:32 INFO  TC_001_AccountRegistrationTest:63 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-28 12:58:36 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-06-28 12:58:36 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-06-28 12:58:37 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-06-28 12:58:37 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-06-28 12:58:37 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-06-28 12:58:38 INFO  TC_002_LoginTest:41 - **** Loggedout ****
+2024-06-28 12:58:38 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2024-06-28 13:05:44 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\sivan\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-06-28 13:05:48 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-28 13:05:48 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-06-28 13:05:48 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-06-28 13:05:48 INFO  TC_001_AccountRegistrationTest:28 - Providing customer details...
+2024-06-28 13:05:49 INFO  TC_001_AccountRegistrationTest:42 - Validating expected message..
+2024-06-28 13:05:49 INFO  TC_001_AccountRegistrationTest:63 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-28 13:05:54 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-06-28 13:05:54 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-06-28 13:05:54 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-06-28 13:05:54 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-06-28 13:05:55 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-06-28 13:05:56 INFO  TC_002_LoginTest:41 - **** Loggedout ****
+2024-06-28 13:05:56 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
+2024-06-28 13:23:38 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\sivan\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-06-28 13:23:42 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-28 13:23:42 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-06-28 13:23:43 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-06-28 13:23:43 INFO  TC_001_AccountRegistrationTest:28 - Providing customer details...
+2024-06-28 13:23:44 INFO  TC_001_AccountRegistrationTest:42 - Validating expected message..
+2024-06-28 13:23:44 INFO  TC_001_AccountRegistrationTest:63 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-28 13:23:48 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-06-28 13:23:48 INFO  TC_002_LoginTest:24 - clicked on myaccount link on the home page..
+2024-06-28 13:23:48 INFO  TC_002_LoginTest:26 - clicked on login link under myaccount..
+2024-06-28 13:23:48 INFO  TC_002_LoginTest:30 - Entering valid email and password..
+2024-06-28 13:23:49 INFO  TC_002_LoginTest:34 - clicked on ligin button..
+2024-06-28 13:23:50 INFO  TC_002_LoginTest:41 - **** Loggedout ****
+2024-06-28 13:23:50 INFO  TC_002_LoginTest:51 - **** Finished TC_002_LoginTest  ****
